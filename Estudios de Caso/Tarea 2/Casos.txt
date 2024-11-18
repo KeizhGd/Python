@@ -1,0 +1,22 @@
+Para cada una de las siguientes situaciones, realice un programa en Python, aplicando los 
+contenidos temáticos vistos en el curso. 
+
+Caso 1: Juan Pablo trabaja en su tiempo libre, para una plataforma de transporte. Haga un 
+programa en Python que le permita a Juan Pablo registrar el monto ganado por día, 
+suponiendo que trabaja 7 días a la semana.  Al finalizar la semana le mostrará el total y le 
+indicará el día que ganó más dinero. 
+
+
+Caso 2: La empresa Aero Lux se dedica a transporte aéreo en el territorio nacional.  Prestan un 
+servicio de lujo por lo cual las aeronaves tienen pocos asientos, confortables y espaciosos.  
+Cada aeronave cuenta con 5 filas de 4 asientos. 
+Se le pide crear un programa para registrar los nombres de los pasajeros asignados a los 
+asientos de una aeronave. Cuando se solicite debe imprimir para cada asiento, el nombre 
+de quien lo compró y si no ha sido asignado debe decir “Vacío”.  También debe ofrecer la 
+opción de consultar quién está sentado en un asiento específico.  
+
+Caso 3: La profesora necesita un programa que calcule la nota final para el curso Lógica de 
+Programación. Las calificaciones deben almacenarse. Suponga que tiene 5 estudiantes 
+que realizan 4 actividades evaluativas.  El programa debe diseñarse de forma que con 
+pequeños cambios funcione para n estudiantes. Además de la nota final del curso también 
+debe indicar cuál estudiante tiene la nota más alta. 

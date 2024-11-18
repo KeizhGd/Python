@@ -1,0 +1,23 @@
+
+ESTUDIOS DE CASO
+
+Caso 1: 
+La tienda Vintage necesita un programa para calcular el precio a pagar por la compra que realiza cada cliente. 
+El dueño de la tienda le pide que muestre el detalle de la compra, no tan solo el monto total. Suponga que cada cliente 
+compra un solo artículo, pero puede llevar varias unidades de ese artículo. Cada artículo de la tienda pertenece a una 
+categoría y se van a aplicar descuentos según la categoría como se muestra en la siguiente tabla: 
++--------+------------+------------------------+--------------------+
+| Código | Categoría  | Porcentaje descuento  | Impuesto de ventas |
++--------+------------+------------------------+--------------------+
+|  101   | Bisutería  |         20%           |         13%        |
+|  205   | Calzado    |         35%           |         13%        |
+|  105   | Lencería   |         10%           |         13%        |
+|  301   | Abrigos    |         50%           |         13%        |
++--------+------------+------------------------+--------------------+
+
+Caso 2: 
+Una casa de cambio le solicita que haga un programa que calcule la cantidad de dinero a entregar a un cliente. 
+La casa de cambio realiza cambio de dólares a colones, de euros a colones, de colones a dólares y de colones a 
+euros. El programa debe funcionar N veces, y realiza una sola conversión a la vez. 
+Establezca el tipo de cambio del dólar o del euro en un monto fijo o puede pedirlo al usuario al inicio, esa decisión la 
+toma usted como programador.
